@@ -68,8 +68,15 @@ Papers with codes – Graphs
 https://paperswithcode.com/area/graphs
 
 ## スライド
+Graph Neural Networks: Models and Applications (AAAI 2020 tutorial)
+http://cse.msu.edu/~mayao4/tutorials/aaai2020/
+
 Structured Deep Models: Deep Learning on Graphs and Beyond (Thomas Kipf)
 http://tkipf.github.io/misc/SlidesCambridge.pdf
 
 An Introduction to Graph Neural Networks: Basis and Applications (Katsuhiko Ishiguro (Preferred Networks))
 https://www.slideshare.net/pfi/20201023naistpfnishigurognnintroduction
+
+## データ
+Open Graph Benchmark
+https://ogb.stanford.edu/
