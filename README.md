@@ -1,5 +1,6 @@
 # Graph Neural Networksリンク集
 Graph Neural Networks(GNN)に関するリンク集です。
+
 ## 本
 "Introduction to Graph Neural Networks"
 Zhiyuan Liu, Jie Zhou
@@ -27,7 +28,6 @@ Springer (2022)
 https://graph-neural-networks.github.io/
 
 ## サーベイ論文
-
 "Graph Neural Networks: A Review of Methods and Applications"
 Jie Zhou, Ganqu Cui, Shengding Hu, Zhengyan Zhanga, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun
 AI Open, Vol. 1, pp.57-81 (2020)
@@ -44,3 +44,12 @@ Ziwei Zhang, Peng Cui, Wenwu Zhu,
 IEEE Transactions on Knowledge and Data Engineering
 Vol. 34, pp. 249-270 (2022)
 https://doi.org/10.1109/TKDE.2020.2981333
+
+## オンライン教材
+CS224W: Machine Learning with Graphs
+Stanford / Fall 2021
+http://web.stanford.edu/class/cs224w/
+
+"Pytorch Geometric Tutorial"
+Antonio Longa, Gabriele Santin, Giovanni Pellegrini
+https://antoniolonga.github.io/Pytorch_geometric_tutorials/
