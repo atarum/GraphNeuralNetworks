@@ -1,2 +1,46 @@
 # Graph Neural Networksリンク集
 Graph Neural Networks(GNN)に関するリンク集です。
+## 本
+"Introduction to Graph Neural Networks"
+Zhiyuan Liu, Jie Zhou
+Morgan & Claypool Publishers (2020)
+https://doi.org/10.2200/S00980ED1V01Y202001AIM045
+
+"Graph Representation Learning"
+William L. Hamilton
+Morgan & Claypool publishers (2020)
+https://www.cs.mcgill.ca/~wlh/grl_book/
+
+"Deep Learning on Graphs"
+Yao Ma and Jiliang Tang
+Cambridge University Press (2021)
+https://web.njit.edu/~ym329/dlg_book/
+
+"Graph Machine Learning"
+Claudio Stamile, Aldo Marzullo, Enrico Deusebio 
+Packt Publishing (2021)
+https://www.packtpub.com/product/graph-machine-learning/9781800204492
+
+"Graph Neural Networks -- Foundations, Frontiers, and Applications"
+Lingfei Wu, Peng Cui, Jian Pei, Liang Zhao, 
+Springer (2022)
+https://graph-neural-networks.github.io/
+
+## サーベイ論文
+
+"Graph Neural Networks: A Review of Methods and Applications"
+Jie Zhou, Ganqu Cui, Shengding Hu, Zhengyan Zhanga, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun
+AI Open, Vol. 1, pp.57-81 (2020)
+https://doi.org/10.1016/j.aiopen.2021.01.001
+
+"A Comprehensive Survey on Graph Neural Networks"
+Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu
+IEEE Transactions on Neural Networks and Learning Systems
+Vol. 32, Issue 1, pp.4-24, (2021)
+https://doi.org/10.1109/TNNLS.2020.2978386
+
+"Deep Learning on Graphs: A Survey"
+Ziwei Zhang, Peng Cui, Wenwu Zhu,
+IEEE Transactions on Knowledge and Data Engineering
+Vol. 34, pp. 249-270 (2022)
+https://doi.org/10.1109/TKDE.2020.2981333
