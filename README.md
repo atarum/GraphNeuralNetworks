@@ -2,14 +2,14 @@
 Graph Neural Networks(GNN)に関するリンク集です。
 
 ## 本
-  "Introduction to Graph Neural Networks"
-  Zhiyuan Liu, Jie Zhou
-  Morgan & Claypool Publishers (2020)
+    "Introduction to Graph Neural Networks"
+    Zhiyuan Liu, Jie Zhou
+    Morgan & Claypool Publishers (2020)
 https://doi.org/10.2200/S00980ED1V01Y202001AIM045
 
-  "Graph Representation Learning"
-  William L. Hamilton
-  Morgan & Claypool publishers (2020)
+    "Graph Representation Learning"
+    William L. Hamilton
+    Morgan & Claypool publishers (2020)
 https://www.cs.mcgill.ca/~wlh/grl_book/
 
   "Deep Learning on Graphs"
