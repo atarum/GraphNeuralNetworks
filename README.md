@@ -53,3 +53,23 @@ http://web.stanford.edu/class/cs224w/
 "Pytorch Geometric Tutorial"
 Antonio Longa, Gabriele Santin, Giovanni Pellegrini
 https://antoniolonga.github.io/Pytorch_geometric_tutorials/
+
+## リンク集
+Graph Neural Networks
+https://hhaji.github.io/Deep-Learning/Graph-Neural-Networks/
+
+Awesome resources on Graph Neural Networks
+https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks
+
+Must-read papers on GNN
+https://github.com/thunlp/GNNPapers
+
+Papers with codes – Graphs
+https://paperswithcode.com/area/graphs
+
+## スライド
+Structured Deep Models: Deep Learning on Graphs and Beyond (Thomas Kipf)
+http://tkipf.github.io/misc/SlidesCambridge.pdf
+
+An Introduction to Graph Neural Networks: Basis and Applications (Katsuhiko Ishiguro (Preferred Networks))
+https://www.slideshare.net/pfi/20201023naistpfnishigurognnintroduction
