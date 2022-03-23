@@ -29,7 +29,8 @@ https://graph-neural-networks.github.io/
 
 ## サーベイ論文
     "Graph Neural Networks: A Review of Methods and Applications"
-    Jie Zhou, Ganqu Cui, Shengding Hu, Zhengyan Zhanga, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun
+    Jie Zhou, Ganqu Cui, Shengding Hu, Zhengyan Zhanga, Cheng Yang, Zhiyuan Liu, 
+    Lifeng Wang, Changcheng Li, Maosong Sun
     AI Open, Vol. 1, pp.57-81 (2020)
 https://doi.org/10.1016/j.aiopen.2021.01.001
 
@@ -74,7 +75,8 @@ http://cse.msu.edu/~mayao4/tutorials/aaai2020/
     Structured Deep Models: Deep Learning on Graphs and Beyond (Thomas Kipf)
 http://tkipf.github.io/misc/SlidesCambridge.pdf
 
-    An Introduction to Graph Neural Networks: Basis and Applications (Katsuhiko Ishiguro (Preferred Networks))
+    An Introduction to Graph Neural Networks: Basis and Applications 
+    (Katsuhiko Ishiguro (Preferred Networks))
 https://www.slideshare.net/pfi/20201023naistpfnishigurognnintroduction
 
 ## データ
