@@ -2,10 +2,9 @@
 [![グラフニューラルネットワーク](/GNN.jpg)](https://www.amazon.co.jp/dp/4274228878/) 
 
 「グラフニューラルネットワーク」(村田剛志　オーム社)に関するサポート情報を掲載します。
-
-## 本のリンク先(オーム社、アマゾン) <br>
-https://www.ohmsha.co.jp/book/9784274228872/ <br>
-https://www.amazon.co.jp/dp/4274228878/ <br>
+## 本のリンク先 <br>
+オーム社 https://www.ohmsha.co.jp/book/9784274228872/ <br>
+アマゾン https://www.amazon.co.jp/dp/4274228878/ <br>
 
 ## 書誌情報 <br>
 グラフニューラルネットワーク: PyTorchによる実装 <br>
@@ -15,6 +14,7 @@ A5判／248頁 <br>
 ISBN：978-4-274-22887-2 <br>
 発売日：2022/07/20 <br>
 発行元：オーム社 <br>
+
 
 
 ## 本
