@@ -1,5 +1,20 @@
-# Graph Neural Networksリンク集
-Graph Neural Networks(GNN)に関するリンク集です。
+# 「Graph Neural Networks」サポートページ
+「グラフニューラルネットワーク」(村田剛志　オーム社)に関するサポート情報を掲載します。
+## 本のリンク先(オーム社、アマゾン)
+https://www.ohmsha.co.jp/book/9784274228872/
+https://www.amazon.co.jp/dp/4274228878/
+
+##　書誌情報
+グラフニューラルネットワーク: PyTorchによる実装
+村田 剛志 著
+本体3,200円＋税
+A5判／248頁
+ISBN：978-4-274-22887-2
+発売日：2022/07/20
+発行元：オーム社
+
+
+
 
 ## 本
 "Introduction to Graph Neural Networks"  
