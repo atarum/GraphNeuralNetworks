@@ -15,6 +15,46 @@ ISBN：978-4-274-22887-2 <br>
 発売日：2022/07/20 <br>
 発行元：オーム社 <br>
 
+## 第1章 リンク
+# 13ページ
+"Graph Neural Networks: A Review of Methods and Applications"  
+Jie Zhou, Ganqu Cui, Shengding Hu, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun  
+AI Open, Vol. 1, pp.57-81 (2020)  
+https://doi.org/10.1016/j.aiopen.2021.01.001
+
+# 14ページ
+Traffic prediction with advanced Graph Neural Networks
+DeepMind, September 3, 2020.
+https://www.deepmind.com/blog/traffic-prediction-with-advanced-graph-neural-networks
+
+## 第2章 リンク
+# 23ページ
+A Survey on Network Embedding
+Peng Cui, Xiao Wang, Jian Pei, Wenwu Zhu, 
+IEEE Transactions on Knowledge and Data Engineering, Vol. 31, No. 5, pp. 833-852, 2019.
+https://doi.org/10.1109/TKDE.2018.2849727
+
+# 31ページ
+DeepWalk: online learning of social representations
+Bryan Perozzi, Rami Al-Rfou, Steven Skiena,
+The 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD'14), pp.701-710, 2014.
+https://doi.org/10.1145/2623330.2623732
+
+https://github.com/phanein/deepwalk
+
+https://paperswithcode.com/method/deepwalk
+
+# 36ページ
+LINE: Large-scale Information Network Embedding
+Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan, Qiaozhu Mei,
+Proceedings of the 24th International Conference on World Wide Web (WWW'15) pp.1067-1077, 2015.
+https://doi.org/10.1145/2736277.2741093
+
+https://github.com/tangjianpku/LINE
+
+https://paperswithcode.com/method/line
+
+
 
 
 ## 本
@@ -45,7 +85,7 @@ https://graph-neural-networks.github.io/
 
 ## サーベイ論文
 "Graph Neural Networks: A Review of Methods and Applications"  
-Jie Zhou, Ganqu Cui, Shengding Hu, Zhengyan Zhanga, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun  
+Jie Zhou, Ganqu Cui, Shengding Hu, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun  
 AI Open, Vol. 1, pp.57-81 (2020)  
 https://doi.org/10.1016/j.aiopen.2021.01.001
 
