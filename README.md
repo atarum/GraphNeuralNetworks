@@ -1,7 +1,7 @@
 # 「グラフニューラルネットワーク」(オーム社)　サポートページ
 [![グラフニューラルネットワーク](/GNN.jpg)](https://www.amazon.co.jp/dp/4274228878/) 
 
-「グラフニューラルネットワーク」(村田剛志　オーム社)に関するサポート情報を掲載します。
+「グラフニューラルネットワーク」(オーム社)に関するサポート情報を掲載します。
 ## 本のリンク先 <br>
 オーム社 https://www.ohmsha.co.jp/book/9784274228872/ <br>
 アマゾン https://www.amazon.co.jp/dp/4274228878/ <br>
@@ -15,7 +15,7 @@ ISBN：978-4-274-22887-2 <br>
 発売日：2022/07/20 <br>
 発行元：オーム社 <br>
 
-## 第1章 リンク
+## 第1章 グラフニューラルネットワークとは
 ### 13ページ
 "Graph Neural Networks: A Review of Methods and Applications"  
 Jie Zhou, Ganqu Cui, Shengding Hu, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun  
@@ -27,7 +27,7 @@ Traffic prediction with advanced Graph Neural Networks
 DeepMind, September 3, 2020.
 https://www.deepmind.com/blog/traffic-prediction-with-advanced-graph-neural-networks
 
-## 第2章 リンク
+## 第2章 グラフエンベディング
 ### 23ページ
 A Survey on Network Embedding
 Peng Cui, Xiao Wang, Jian Pei, Wenwu Zhu, 
@@ -75,6 +75,7 @@ https://paperswithcode.com/paper/grarep-learning-graph-representations-with
 ### 44ページ
 https://github.com/yijiaozhang/hypercompare
 
+## 第3章 グラフにおける畳み込み
 ### 60ページ
 Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering
 Michaël Defferrard, Xavier Bresson, Pierre Vandergheynst
@@ -128,6 +129,7 @@ http://snap.stanford.edu/graphsage/
 
 https://paperswithcode.com/paper/inductive-representation-learning-on-large
 
+## 第4章 関連トピック
 ### 74ページ
 Structural Deep Network Embedding
 Daixin Wang, Peng Cui, Wenwu Zhu
@@ -150,6 +152,107 @@ https://petar-v.com/GAT/
 https://paperswithcode.com/paper/graph-attention-networks
 
 ### 83ページ
+Simplifying Graph Convolutional Networks
+Felix Wu, Tianyi Zhang, Amauri Holanda de Souza Jr., Christopher Fifty, Tao Yu, Kilian Q. Weinberger
+Proceedings of the 36th International Conference on Machine Learning (ICML 2019), 2019.
+
+https://arxiv.org/abs/1902.07153
+
+https://github.com/Tiiiger/SGC
+
+https://paperswithcode.com/paper/simplifying-graph-convolutional-networks/
+
+### 86-87ページ
+How Powerful are Graph Neural Networks?
+Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka
+7th International Conference on Learning Representations (ICLR 2019), 2019.
+https://arxiv.org/abs/1810.00826
+
+https://github.com/weihua916/powerful-gnns
+
+https://paperswithcode.com/paper/how-powerful-are-graph-neural-networks/
+
+### 89ページ
+https://github.com/DSE-MSU/DeepRobust
+
+## 第5章 実装のための準備
+### 103ページ
+https://www.python.org/
+
+https://www.python.jp/
+
+### 106ページ
+https://numpy.org/doc/stable/user/quickstart.html
+
+### 109ページ
+https://docs.scipy.org/doc/scipy/index.html
+
+### 112ページ
+https://pandas.pydata.org/docs/index.html
+
+### 113ページ
+https://matplotlib.org/stable/gallery/index.html
+
+### 115ページ
+https://matplotlib.org/stable/index.html
+
+### 116ページ
+https://seaborn.pydata.org/examples/index.html
+
+### 117ページ
+https://seaborn.pydata.org/generated/seaborn.jointplot.html
+
+### 118ページ
+https://seaborn.pydata.org/
+
+### 119ページ
+https://scikit-learn.org/stable/
+
+### 120ページ
+https://scikit-learn.org/stable/tutorial/machine_learning_map/
+
+### 122ページ
+https://lvdmaaten.github.io/tsne/
+
+### 123ページ
+https://distill.pub/2016/misread-tsne/
+
+### 125ページ
+https://scipy-lectures.org/
+
+http://www.turbare.net/transl/scipy-lecture-notes/
+
+### 126ページ
+https://jupyter.org/
+
+https://www.anaconda.com/
+
+### 127ページ
+https://github.com/jupyterlab/jupyterlab-desktop
+
+### 128ページ
+https://colab.research.google.com/
+
+## 第6章 PyTorch Geometricによる実装
+### 135ページ
+PyTorch Get Started
+https://pytorch.org/get-started/locally/
+Colab Notebooks and Video Tutorials
+https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html
+
+### 136ページ
+PyTorchチュートリアル(日本語翻訳版)
+https://yutaroogawa.github.io/pytorch_tutorials_jp/
+PyTorch Tutorials
+https://pytorch.org/tutorials/
+PyTorch Documentation
+https://pytorch.org/docs/stable/
+PyTorch basics (PyTorch Geometric Tutorial)
+https://antoniolonga.github.io/Pytorch_geometric_tutorials/posts/post2.html
+
+### 147ページ
+Loss Functions (PyTorch)
+https://pytorch.org/docs/stable/nn.html#loss-functions
 
 
 
