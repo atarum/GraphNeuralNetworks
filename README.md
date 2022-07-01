@@ -240,18 +240,18 @@ https://pytorch.org/get-started/locally/
 Colab Notebooks and Video Tutorials
 https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html
 
-### 136ページ
-PyTorchチュートリアル(日本語翻訳版)
-https://yutaroogawa.github.io/pytorch_tutorials_jp/
-PyTorch Tutorials
-https://pytorch.org/tutorials/
-PyTorch Documentation
-https://pytorch.org/docs/stable/
-PyTorch basics (PyTorch Geometric Tutorial)
-https://antoniolonga.github.io/Pytorch_geometric_tutorials/posts/post2.html
+### 136ページ  
+PyTorchチュートリアル(日本語翻訳版)  
+https://yutaroogawa.github.io/pytorch_tutorials_jp/  
+PyTorch Tutorials  
+https://pytorch.org/tutorials/  
+PyTorch Documentation  
+https://pytorch.org/docs/stable/  
+PyTorch basics (PyTorch Geometric Tutorial)  
+https://antoniolonga.github.io/Pytorch_geometric_tutorials/posts/post2.html  
 
-### 147ページ
-Loss Functions (PyTorch)
+### 147ページ  
+Loss Functions (PyTorch)  
 https://pytorch.org/docs/stable/nn.html#loss-functions
 
 
