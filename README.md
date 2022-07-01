@@ -20,11 +20,11 @@ ISBN：978-4-274-22887-2 <br>
 "Graph Neural Networks: A Review of Methods and Applications"  
 Jie Zhou, Ganqu Cui, Shengding Hu, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun  
 AI Open, Vol. 1, pp.57-81 (2020)  
-https://doi.org/10.1016/j.aiopen.2021.01.001
+https://doi.org/10.1016/j.aiopen.2021.01.001  
 
 ### 14ページ
-Traffic prediction with advanced Graph Neural Networks
-DeepMind, September 3, 2020.
+Traffic prediction with advanced Graph Neural Networks  
+DeepMind, September 3, 2020.  
 https://www.deepmind.com/blog/traffic-prediction-with-advanced-graph-neural-networks
 
 ## 第2章 グラフエンベディング
