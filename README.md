@@ -15,8 +15,9 @@ ISBN：978-4-274-22887-2 <br>
 発売日：2022/07/20 <br>
 発行元：オーム社 <br>
 
-## 第1章 グラフニューラルネットワークとは
-### 13ページ
+## 文中のリンク
+### 第1章 グラフニューラルネットワークとは
+- 13ページ
 "Graph Neural Networks: A Review of Methods and Applications"  
 Jie Zhou, Ganqu Cui, Shengding Hu, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun  
 AI Open, Vol. 1, pp.57-81 (2020)  
