@@ -348,7 +348,7 @@ https://www.cs.mcgill.ca/~wlh/grl_book/
 Deep Learning on Graphs  
 Yao Ma, Jiliang Tang  
 Cambridge University Press, 2021.  
-https://doi.org/10.1017/9781108924184
+https://doi.org/10.1017/9781108924184  
 (preprint)  
 https://web.njit.edu/~ym329/dlg_book/  
 Graph Neural Networks -- Foundations, Frontiers, and Applications  
@@ -397,3 +397,6 @@ https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks
 - 220ページ  
 Open Graph Benchmark (OGB)  
 https://ogb.stanford.edu/  
+
+## 第5章第6章のコード
+[第5章第6章コード](./「グラフニューラルネットワーク」第5章第6章コード.ipynb "第5章第6章コード")
