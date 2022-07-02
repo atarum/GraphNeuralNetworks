@@ -17,23 +17,23 @@ ISBN：978-4-274-22887-2 <br>
 
 ## 文中のリンク
 ### 第1章 グラフニューラルネットワークとは
-- 13ページ
+- 13ページ  
 "Graph Neural Networks: A Review of Methods and Applications"  
 Jie Zhou, Ganqu Cui, Shengding Hu, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun  
 AI Open, Vol. 1, pp.57-81 (2020)  
 https://doi.org/10.1016/j.aiopen.2021.01.001  
 
-### 14ページ
+- 14ページ  
 Traffic prediction with advanced Graph Neural Networks  
 DeepMind, September 3, 2020.  
-https://www.deepmind.com/blog/traffic-prediction-with-advanced-graph-neural-networks
+https://www.deepmind.com/blog/traffic-prediction-with-advanced-graph-neural-networks  
 
-### 17ページ  
+- 17ページ  
 Graph Methods for COVID-19 Response  
 William L. Hamilton  
 https://cs.mcgill.ca/~wlh/comp766/files/graphs-against-covid.pdf  
 
-## 第2章 グラフエンベディング  
+### 第2章 グラフエンベディング  
 ### 23ページ  
 A Survey on Network Embedding  
 Peng Cui, Xiao Wang, Jian Pei, Wenwu Zhu,   
