@@ -399,4 +399,19 @@ Open Graph Benchmark (OGB)
 https://ogb.stanford.edu/  
 
 ## 第5章第6章のコード
-[第5章第6章コード](./第5章第6章コード.ipynb "第5章第6章コード")
+[このGitHub上で見る]　(./第5章第6章コード.ipynb "第5章第6章コード")   
+Colaboratoryで見る https://colab.research.google.com/drive/10MUzKFoYTQzelmmEwkPLNeo7PZu2G7pS?usp=sharing  
+
+## 宣伝：セミナーの開催  
+以下の日程でグラフニューラルネットワークのセミナーを行います(有料)。ご興味のある方はそれぞれのサイトからお申込みください。  
+- サイエンス&テクノロジー 2022.7.27(水) 10:30-16:30  
+https://www.science-t.com/seminar/A220727.html  
+- R&D支援センター 2022.9.5(月) 10:30-16:30  
+https://www.rdsc.co.jp/seminar/220646  
+- トリケップス 2022.9.27(火) 10:00-16:30  
+http://www.triceps.co.jp/seminar/s220927aw.html  
+
+## 宣伝：産学連携  
+共同研究や学術指導など、大学との連携をお考えの企業様は、以下の部署にご連絡ください。  
+東京工業大学 研究・産学連携本部   
+https://www.ori.titech.ac.jp/sangaku/  
