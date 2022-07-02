@@ -399,7 +399,7 @@ Open Graph Benchmark (OGB)
 https://ogb.stanford.edu/  
 
 ## 第5章第6章のコード
-[このGitHub上で見る]　(./第5章第6章コード.ipynb "第5章第6章コード")   
+[このGitHub上で見る](/第5章第6章コード.ipynb "第5章第6章コード")   
 Colaboratoryで見る https://colab.research.google.com/drive/10MUzKFoYTQzelmmEwkPLNeo7PZu2G7pS?usp=sharing  
 
 ## 宣伝：セミナーの開催  
