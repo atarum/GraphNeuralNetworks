@@ -358,7 +358,7 @@ https://doi.org/10.1007/978-981-16-6054-2
 (preprint)  
 https://graph-neural-networks.github.io/  
 
-- 216ページ
+- 216ページ  
 A Comprehensive Survey on Graph Neural Networks  
 Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu  
 IEEE Transactions on Neural Networks and Learning Systems, Vol. 32, Issue 1, pp.4-24, 2021.  
