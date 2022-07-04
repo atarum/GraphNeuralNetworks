@@ -15,6 +15,10 @@ ISBN：978-4-274-22887-2 <br>
 発売日：2022/07/20 <br>
 発行元：オーム社 <br>
 
+## 第5章第6章のコード
+- [このGitHub上で見る](/第5章第6章コード.ipynb "第5章第6章コード")   
+- [Colaboratoryで見る](https://colab.research.google.com/drive/10MUzKFoYTQzelmmEwkPLNeo7PZu2G7pS?usp=sharing "Colaboratoryコード")
+
 ## 文中のリンク
 ### 第1章 グラフニューラルネットワークとは
 - 13ページ  
@@ -397,10 +401,6 @@ https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks
 - 220ページ  
 Open Graph Benchmark (OGB)  
 https://ogb.stanford.edu/  
-
-## 第5章第6章のコード
-- [このGitHub上で見る](/第5章第6章コード.ipynb "第5章第6章コード")   
-- [Colaboratoryで見る](https://colab.research.google.com/drive/10MUzKFoYTQzelmmEwkPLNeo7PZu2G7pS?usp=sharing "Colaboratoryコード")
 
 ## 宣伝：セミナーの開催  
 以下の日程でグラフニューラルネットワークのセミナーを行います(有料)。ご興味のある方はそれぞれのサイトからお申込みください。  
