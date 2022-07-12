@@ -410,6 +410,8 @@ https://www.science-t.com/seminar/A220727.html
 https://www.rdsc.co.jp/seminar/220646  
 - トリケップス 2022.9.27(火) 10:00-16:30  
 http://www.triceps.co.jp/seminar/s220927aw.html  
+- 情報機構 2022.10.26(水) 13:00-17:00
+https://johokiko.co.jp/seminar_chemical/AD221018.php
 
 ## 宣伝：産学連携  
 共同研究や学術指導など、大学との連携をお考えの企業様は、以下の部署にご連絡ください。 
