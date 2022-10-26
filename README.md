@@ -404,8 +404,6 @@ https://ogb.stanford.edu/
 
 ## 宣伝：セミナーの開催  
 以下の日程でグラフニューラルネットワークのセミナーを行います(有料)。ご興味のある方はそれぞれのサイトからお申込みください。  
-- 情報機構 2022.10.26(水) 13:00-17:00  
-https://johokiko.co.jp/seminar_chemical/AD221018.php  
 - トリケップス 2022.11.25(金) 10:00-16:30  
 http://www.triceps.co.jp/seminar/s220927aw.html
 
