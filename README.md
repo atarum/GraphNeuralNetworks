@@ -401,13 +401,3 @@ https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks
 - 220ページ  
 Open Graph Benchmark (OGB)  
 https://ogb.stanford.edu/  
-
-## 宣伝：セミナーの開催  
-以下の日程でグラフニューラルネットワークのセミナーを行います(有料)。ご興味のある方はそれぞれのサイトからお申込みください。  
-- トリケップス 2022.11.25(金) 10:00-16:30  
-http://www.triceps.co.jp/seminar/s220927aw.html
-
-## 宣伝：産学連携  
-共同研究や学術指導など、大学との連携をお考えの企業様は、以下の部署にご連絡ください。 
-- 東京工業大学 研究・産学連携本部   
-https://www.ori.titech.ac.jp/sangaku/  
